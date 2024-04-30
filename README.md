@@ -38,7 +38,7 @@ Because of the time constraints:
 - I didn't develop a separate page for every event where users could get more information; instead, put this information through hover effects on CSS on that main page.
 
 # Issues 
-- I made booking submission form the same for all events (and information about which event specifically users want to book is not passed)
+- I made booking submission form the same for all events (and information about which specific event a user wants to book is not passed)
 - Client-side and server-side validation are minimal
 - CSS lacks media queries for handling different screen sizes
 
